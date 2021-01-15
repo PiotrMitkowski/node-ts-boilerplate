@@ -1,6 +1,6 @@
 {
   "name": "node-ts-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A basic project structure for NodeJS with Typescript",
   "main": "dist/index.js",
   "scripts": {
@@ -17,11 +17,11 @@
   "author": "Piotr Mitkowski",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "13.7.6",
-    "@typescript-eslint/eslint-plugin": "2.21.0",
-    "@typescript-eslint/parser": "2.21.0",
-    "eslint": "6.8.0",
+    "@types/node": "14.14.21",
+    "@typescript-eslint/eslint-plugin": "4.13.0",
+    "@typescript-eslint/parser": "4.13.0",
+    "eslint": "7.17.0",
     "ts-node": "8.6.2",
-    "typescript": "3.8.2"
+    "typescript": "4.1.3"
   }
 }
